@@ -15,3 +15,5 @@ for char in text:
 print(numbers)
 print(letters)
 print(characters)
+
+#DONE
